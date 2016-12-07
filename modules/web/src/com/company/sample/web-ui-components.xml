@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<components>
+    <component>
+        <name>pickerField</name>
+        <componentLoader>com.haulmont.cuba.gui.xml.layout.loaders.PickerFieldLoader</componentLoader>
+        <class>com.company.sample.web.components.MyWebPickerField</class>
+    </component>
+</components>
